@@ -8,6 +8,13 @@ select "Host : configure and deploy firebase hosting site"
 ? What do you want to use as your public directory? (public) build/web
 
 
+adding it to Git 
+first add in guthub.com a repository TestFlutterFirebase.git
+
+PS C:\dev\flutterweb\TestFlutterFirebase> git remote add origin git@github.com:ambes77/TestFlutterFirebase.git
+PS C:\dev\flutterweb\TestFlutterFirebase> git push -u origin master
+
+
 
 
 A new Flutter project.
